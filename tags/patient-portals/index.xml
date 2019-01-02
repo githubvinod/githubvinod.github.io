@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patient Portals on News</title>
+    <link>/tags/patient-portals/</link>
+    <description>Recent content in Patient Portals on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 22 Feb 2018 04:41:03 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/patient-portals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimizing Your Patient Portal is a Must on Your New Year&#39;s Resolutions List</title>
+      <link>/posts/optimizing-your-patient-portal-is-a-must-on-your-new-years-resolutions-list/</link>
+      <pubDate>Thu, 22 Feb 2018 04:41:03 +0000</pubDate>
+      
+      <guid>/posts/optimizing-your-patient-portal-is-a-must-on-your-new-years-resolutions-list/</guid>
+      <description>Although patient portals have the potential to not only meet requirements, but also provide a delightful user experience, a report released in March 2017 shows these portals seem to be popular with care providers, but not so much with patients. The U.S. Government Accountability Office discovered 88 percent of hospitals and 87 percent of physician practices offered patient portals. However, only 15 percent of hospitals’ and 30 percent of physicians practices’ patients accessed medical information through the portal.</description>
+    </item>
+    
+  </channel>
+</rss>

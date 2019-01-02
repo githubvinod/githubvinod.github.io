@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3d Printing on News</title>
+    <link>/tags/3d-printing/</link>
+    <description>Recent content in 3d Printing on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 28 Apr 2018 21:07:22 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How 3D Printing Has Transformed the Medical Sector</title>
+      <link>/2018/04/28/how-3d-printing-has-transformed-the-medical-sector/</link>
+      <pubDate>Sat, 28 Apr 2018 21:07:22 +0000</pubDate>
+      
+      <guid>/2018/04/28/how-3d-printing-has-transformed-the-medical-sector/</guid>
+      <description>3D printing has become the most sort out technology in the world currently. This has led to applications in different sectors of the economy. Due to its vast applications, 3D printing has transformed many lives in different ways. Is 3D printing applicable in the medical sector? Yes, currently the medical sector has embraced this technology in various ways. Also known as, ‘Rapid Prototyping’ 3D printing has enabled the creation of new objects similar to existing objects.</description>
+    </item>
+    
+  </channel>
+</rss>

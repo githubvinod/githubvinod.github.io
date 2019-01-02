@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patient Engagement Amp Portals on News</title>
+    <link>/tags/patient-engagement-amp-portals/</link>
+    <description>Recent content in Patient Engagement Amp Portals on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 17 Mar 2018 22:21:31 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/patient-engagement-amp-portals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tackling the Challenges of Patient Engagement with Healthcare Data</title>
+      <link>/posts/tackling-the-challenges-of-patient-engagement-with-healthcare-data/</link>
+      <pubDate>Sat, 17 Mar 2018 22:21:31 +0000</pubDate>
+      
+      <guid>/posts/tackling-the-challenges-of-patient-engagement-with-healthcare-data/</guid>
+      <description>Effective population health management has made it imperative that patients have an equal footing in the matters of their health. Access to comprehensive, reliable data is one vital ingredient healthcare organizations require for effectively engaging patients. The challenge that lies before this foundational step is the lack of a unified healthcare data platform, a single source-of-truth connecting multiple healthcare data sources. The universe of healthcare data is dotted with individual EHRs, billing files, claims data- we are data rich, but almost paralyzed when it comes to collecting and analyzing this mound of data.</description>
+    </item>
+    
+    <item>
+      <title>Smart Use of Existing Tech Can Boost Patient Engagement</title>
+      <link>/posts/smart-use-of-existing-tech-can-boost-patient-engagement/</link>
+      <pubDate>Sat, 24 Feb 2018 01:47:06 +0000</pubDate>
+      
+      <guid>/posts/smart-use-of-existing-tech-can-boost-patient-engagement/</guid>
+      <description>Many healthcare providers in the U.S. wish their patients would take more accountability for managing their health. According to a West survey, 96 percent of providers feel frustrated when patients do not actively participate in their own healthcare. In a perfect world, every patient would follow their care plan exactly as instructed after leaving their doctor’s office. However, as physicians know, this isn’t always as easy as it seems. Although it is frustrating for healthcare providers to see patients not heeding advice or doing what is necessary to manage their health after providers have spent time examining them, answering questions and prescribing treatments, healthcare providers should not be discouraged.</description>
+    </item>
+    
+  </channel>
+</rss>

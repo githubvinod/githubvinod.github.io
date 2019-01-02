@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Himss on News</title>
+    <link>/tags/himss/</link>
+    <description>Recent content in Himss on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Aug 2018 15:47:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/himss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Will HIMSS 18 Mourn the Passing of the Traditional Office Visit?</title>
+      <link>/2018/03/13/will-himss-18-mourn-the-passing-of-the-traditional-office-visit/</link>
+      <pubDate>Sun, 05 Aug 2018 15:47:30 +0000</pubDate>
+      
+      <guid>/2018/03/13/will-himss-18-mourn-the-passing-of-the-traditional-office-visit/</guid>
+      <description>Healthcare is evolving quickly and HIMSS 18 offers a broad range of healthcare issues to explore, but will it mourn the passing of the traditional office visit and embrace new HIT driven meet ups?
+New requirements for implementing HIT systems are changing as new health IT priorities and procedures emerge. Convergence in the health care sector is accelerating the need for interoperability, not just for EHRs, but also across clinical, financial, and operational systems.</description>
+    </item>
+    
+  </channel>
+</rss>

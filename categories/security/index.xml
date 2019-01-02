@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on News</title>
+    <link>/categories/security/</link>
+    <description>Recent content in Security on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 29 Aug 2018 04:56:24 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Best Practices to Secure Patient Data</title>
+      <link>/2018/08/29/best-practices-to-secure-patient-data/</link>
+      <pubDate>Wed, 29 Aug 2018 04:56:24 +0000</pubDate>
+      
+      <guid>/2018/08/29/best-practices-to-secure-patient-data/</guid>
+      <description>It’s important for healthcare providers to ensure patient data privacy in order to build lasting and meaningful relationship with their customers. However, it’s not easy to secure health data with the growing concerns in cybersecurity threats today.
+According to healthcare data breach statistics from 2009 to 2017, 2,181 healthcare data breaches was recorded resulting to theft and exposure of 176,709,305 healthcare records.
+There are different ways on how cyber criminals obtain patient data, it could be in the form of hacking, improper disposal of data, theft, unauthorized access/disclosure and other types of breaches.</description>
+    </item>
+    
+    <item>
+      <title>EHR Printing: Security Concerns Associated with Healthcare Organizations</title>
+      <link>/2018/07/22/ehr-printing-security-concerns-associated-with-healthcare-organizations/</link>
+      <pubDate>Sun, 22 Jul 2018 17:29:34 +0000</pubDate>
+      
+      <guid>/2018/07/22/ehr-printing-security-concerns-associated-with-healthcare-organizations/</guid>
+      <description>Digital Transformation in the Healthcare Industry As the “going digital” trend rapidly gains popularity across the corporate world, industries across the board are looking to digital transformation to answer their security, workflow efficiency and productivity problems! The healthcare industry is at the forefront of this shift towards a digital world! With the healthcare industry hosting dynamic, fast-paced, and complex work environments, requiring up to the minute patient data, healthcare organizations were looking for an all-encompassing solution to their challenges.</description>
+    </item>
+    
+  </channel>
+</rss>

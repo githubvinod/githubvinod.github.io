@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Device on News</title>
+    <link>/tags/medical-device/</link>
+    <description>Recent content in Medical Device on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 31 Jul 2018 02:42:31 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/medical-device/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What You Need to Know About Medical Device Hacking</title>
+      <link>/2018/07/31/what-you-need-to-know-about-medical-device-hacking/</link>
+      <pubDate>Tue, 31 Jul 2018 02:42:31 +0000</pubDate>
+      
+      <guid>/2018/07/31/what-you-need-to-know-about-medical-device-hacking/</guid>
+      <description>Medical devices are getting more connected every year. From pacemakers to blood sugar monitoring glucometers, these devices now have built-in Wi-Fi connectivity.
+That makes it easier for patients and medical professionals to monitor a patient&amp;rsquo;s well-being, but as with any networked system, it is also vulnerable to hacking. What do patients really need to know about medical device hacking?
+An Invisible Problem
+It can be difficult to tell whether hackers have attacked a device.</description>
+    </item>
+    
+    <item>
+      <title>Medical Devices Every Senior Needs</title>
+      <link>/posts/medical-devices-every-senior-needs/</link>
+      <pubDate>Thu, 31 May 2018 18:09:11 +0000</pubDate>
+      
+      <guid>/posts/medical-devices-every-senior-needs/</guid>
+      <description>Technology has made incredible advances in how it improves the way we live: The whole point behind technology is to make life more convenient, and this means that the medical sector is part of this. Here are some medical devices that every senior needs to have if they want to make their life just a little bit easier with the help of some great technology. A Smartphone Most people don’t think of a smartphone as a medical device, but with a couple adaptations and the right apps installed on it, it can quickly become one of the greatest health aids that you have at your disposal.</description>
+    </item>
+    
+  </channel>
+</rss>

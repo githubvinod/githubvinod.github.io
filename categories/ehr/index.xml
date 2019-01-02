@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ehr on News</title>
+    <link>/categories/ehr/</link>
+    <description>Recent content in Ehr on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Aug 2018 01:35:44 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ehr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Important Features of EHR Software From the Perspective of a Healthcare Worker and Current Patient | The Healthcare Guys</title>
+      <link>/2018/08/31/important-features-of-ehr-software-from-the-perspective-of-a-healthcare-worker-and-current-patient/</link>
+      <pubDate>Fri, 31 Aug 2018 01:35:44 +0000</pubDate>
+      
+      <guid>/2018/08/31/important-features-of-ehr-software-from-the-perspective-of-a-healthcare-worker-and-current-patient/</guid>
+      <description>Current State of Healthcare IT Health Information Technology (HIT) is huge in the healthcare industry. Times are changing and so are the ways we record patient data. Nowadays, it&amp;rsquo;s not uncommon to be at the doctor&amp;rsquo;s office spending at least 10 minutes going through questions you most likely have gone over and over before. Scenarios where one doctor is not enough, and you find yourself in a new place, the repetition of answering the same questions becomes tiresome.</description>
+    </item>
+    
+    <item>
+      <title>EHR Printing: Security Concerns Associated with Healthcare Organizations</title>
+      <link>/2018/07/22/ehr-printing-security-concerns-associated-with-healthcare-organizations/</link>
+      <pubDate>Sun, 22 Jul 2018 17:29:34 +0000</pubDate>
+      
+      <guid>/2018/07/22/ehr-printing-security-concerns-associated-with-healthcare-organizations/</guid>
+      <description>Digital Transformation in the Healthcare Industry As the “going digital” trend rapidly gains popularity across the corporate world, industries across the board are looking to digital transformation to answer their security, workflow efficiency and productivity problems! The healthcare industry is at the forefront of this shift towards a digital world! With the healthcare industry hosting dynamic, fast-paced, and complex work environments, requiring up to the minute patient data, healthcare organizations were looking for an all-encompassing solution to their challenges.</description>
+    </item>
+    
+    <item>
+      <title>Benefits of an EHR System</title>
+      <link>/2018/02/22/benefits-of-an-ehr-system/</link>
+      <pubDate>Thu, 22 Feb 2018 05:43:42 +0000</pubDate>
+      
+      <guid>/2018/02/22/benefits-of-an-ehr-system/</guid>
+      <description>Once considered a luxury, EHR Software has become a necessity for modern providers who want to stay viable in today&amp;rsquo;s healthcare climate. If your practice has yet to transition to electronic health records, learn how this efficient technology can help save time, money and, in certain instances, lives.
+EHR Benefits to Practitioners
+A properly integrated EHR system can be a godsend for medical practitioners who want to improve patient care and streamline operational efficiencies.</description>
+    </item>
+    
+  </channel>
+</rss>

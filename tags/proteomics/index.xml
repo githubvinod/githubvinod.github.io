@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proteomics on News</title>
+    <link>/tags/proteomics/</link>
+    <description>Recent content in Proteomics on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jul 2018 01:32:57 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/proteomics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginner’s Guide to Proteomics and its Importance, Benefits and Uses</title>
+      <link>/2018/07/29/beginners-guide-to-proteomics-and-its-importance-benefits-and-uses/</link>
+      <pubDate>Sun, 29 Jul 2018 01:32:57 +0000</pubDate>
+      
+      <guid>/2018/07/29/beginners-guide-to-proteomics-and-its-importance-benefits-and-uses/</guid>
+      <description>What is Proteomics?
+Defining Proteomics we can say that it is the most efficient study of proteins of different organisms and cells on a large scale basis. The growth in this field is much more rapid and faster than the other digital healthcare techniques and molecular biology. Describing Proteomics much more clearly we can say that it is the analysis or experiment of the proteins on a high approach or systematic way.</description>
+    </item>
+    
+  </channel>
+</rss>

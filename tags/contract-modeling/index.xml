@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contract Modeling on News</title>
+    <link>/tags/contract-modeling/</link>
+    <description>Recent content in Contract Modeling on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 28 Aug 2018 02:54:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/contract-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3 Tips to Prepare For Contract Modeling</title>
+      <link>/2018/08/28/3-tips-to-prepare-for-contract-modeling/</link>
+      <pubDate>Tue, 28 Aug 2018 02:54:21 +0000</pubDate>
+      
+      <guid>/2018/08/28/3-tips-to-prepare-for-contract-modeling/</guid>
+      <description>For healthcare organizations struggling to maintain consistent revenue integrity within their revenue cycle, effective contract modeling may be the best long-term solution. Not only does contract modeling allow providers to evaluate the performance of their current payer contracts, but, more importantly, it allows providers to develop a payer strategy that helps drive those payer contracts to deliver more predictable results and reimbursement. But there’s a catch… The data behind the contracts must be accurate.</description>
+    </item>
+    
+  </channel>
+</rss>

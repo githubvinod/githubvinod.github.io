@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on News</title>
+    <link>/tags/sports/</link>
+    <description>Recent content in Sports on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 29 May 2018 20:50:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Technology Is Improving Sports Injury Prevention and Recovery</title>
+      <link>/posts/how-technology-is-improving-sports-injury-prevention-and-recovery/</link>
+      <pubDate>Tue, 29 May 2018 20:50:01 +0000</pubDate>
+      
+      <guid>/posts/how-technology-is-improving-sports-injury-prevention-and-recovery/</guid>
+      <description>The sports injury is a very common thing. It affects a lot of players during their career as a sports person. With injuries being so common in any form of sports, it is imperative that it is understood and the recovery should be improved. Researchers have been trying to put in cutting-edge technology to prevent injuries due to sports. There are many products in the market as well which can help improve the chances.</description>
+    </item>
+    
+  </channel>
+</rss>

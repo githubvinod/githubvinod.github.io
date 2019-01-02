@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on News</title>
+    <link>/categories/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jun 2018 22:46:46 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Have You Implemented a HIPAA Compliant Security Awareness Training Program?</title>
+      <link>/2018/06/17/have-you-implemented-a-hipaa-compliant-security-awareness-training-program/</link>
+      <pubDate>Sun, 17 Jun 2018 22:46:46 +0000</pubDate>
+      
+      <guid>/2018/06/17/have-you-implemented-a-hipaa-compliant-security-awareness-training-program/</guid>
+      <description>All companies must take steps to prevent cyber-attacks and data breaches, but in healthcare this is especially important. Cybercriminals are targeting healthcare organizations to gain access to protected health information – Full sets of health records, especially those containing Social Security numbers and health insurance information, carry a high price on the black market.
+Healthcare providers are heavily reliant on electronic data, access to which is needed for healthcare operations and to provide quality care to patients.</description>
+    </item>
+    
+  </channel>
+</rss>

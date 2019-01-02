@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Record Retrieval on News</title>
+    <link>/tags/record-retrieval/</link>
+    <description>Recent content in Record Retrieval on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 25 Mar 2018 00:59:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/record-retrieval/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enriching: The Record Retrieval Services In 2018</title>
+      <link>/2018/03/25/enriching-the-record-retrieval-services-in-2018/</link>
+      <pubDate>Sun, 25 Mar 2018 00:59:05 +0000</pubDate>
+      
+      <guid>/2018/03/25/enriching-the-record-retrieval-services-in-2018/</guid>
+      <description>Locating a particular document, file, or record, and delivering it for use is nothing but record retrieval. Multiple record retrieval companies provide retrieval services to claim assistants, also attorneys and medical professionals as well. Complying to the HIPAA norms, processing, and handling required documents including, but not limited to authorization to release medical records, notices, notice of privacy practices, these record retrieval companies collect medical documents either manually, electronically using faxes or emails and even directly accessing EMR for document downloads.</description>
+    </item>
+    
+  </channel>
+</rss>

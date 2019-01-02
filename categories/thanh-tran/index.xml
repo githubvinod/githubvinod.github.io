@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thanh Tran on News</title>
+    <link>/categories/thanh-tran/</link>
+    <description>Recent content in Thanh Tran on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 28 May 2018 01:37:48 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/thanh-tran/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CMS’s Proposed PI Rule Changes is a Good Start, But Does it Address Enough?</title>
+      <link>/2018/05/28/cmss-proposed-pi-rule-changes-is-a-good-start-but-does-it-address-enough/</link>
+      <pubDate>Mon, 28 May 2018 01:37:48 +0000</pubDate>
+      
+      <guid>/2018/05/28/cmss-proposed-pi-rule-changes-is-a-good-start-but-does-it-address-enough/</guid>
+      <description>Federal healthcare organizations such as CMS have spent billions of dollars over the years trying to bridge the gap between medical data and quality patient care with interoperability requirements and data integration, the mesh used to try and bridge the gap. Many government rules have been written to address the type of mesh needed and many EHR companies have claimed to meet these government requirements and claim the throne of the ultimate mesh maker.</description>
+    </item>
+    
+  </channel>
+</rss>

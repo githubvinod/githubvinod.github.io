@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kayla Matthews on News</title>
+    <link>/tags/kayla-matthews/</link>
+    <description>Recent content in Kayla Matthews on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 30 Aug 2018 22:30:41 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/kayla-matthews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Emerging Tech Can Help Standardize Medical Reporting</title>
+      <link>/posts/how-emerging-tech-can-help-standardize-medical-reporting/</link>
+      <pubDate>Thu, 30 Aug 2018 22:30:41 +0000</pubDate>
+      
+      <guid>/posts/how-emerging-tech-can-help-standardize-medical-reporting/</guid>
+      <description>Medical reporting is an integral part of the medical industry, but a lack of standardized reporting techniques makes the field more complicated than it needs to be. In addition to making it more difficult to care for patients, this has caused the healthcare field to lag behind many other areas that use similar technology. Networked medical systems have their share of risks — any networked system can be susceptible to hacking if the hardware or software isn&amp;rsquo;t upgraded and secured.</description>
+    </item>
+    
+    <item>
+      <title>What You Need to Know About Medical Device Hacking</title>
+      <link>/2018/07/31/what-you-need-to-know-about-medical-device-hacking/</link>
+      <pubDate>Tue, 31 Jul 2018 02:42:31 +0000</pubDate>
+      
+      <guid>/2018/07/31/what-you-need-to-know-about-medical-device-hacking/</guid>
+      <description>Medical devices are getting more connected every year. From pacemakers to blood sugar monitoring glucometers, these devices now have built-in Wi-Fi connectivity.
+That makes it easier for patients and medical professionals to monitor a patient&amp;rsquo;s well-being, but as with any networked system, it is also vulnerable to hacking. What do patients really need to know about medical device hacking?
+An Invisible Problem
+It can be difficult to tell whether hackers have attacked a device.</description>
+    </item>
+    
+  </channel>
+</rss>

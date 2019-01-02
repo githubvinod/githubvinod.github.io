@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telehealth on News</title>
+    <link>/tags/telehealth/</link>
+    <description>Recent content in Telehealth on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Feb 2018 00:43:20 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/telehealth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Telehealth, Post Net Neutrality: How We&#39;re Moving Forward</title>
+      <link>/posts/telehealth-post-net-neutrality-how-were-moving-forward/</link>
+      <pubDate>Sun, 18 Feb 2018 00:43:20 +0000</pubDate>
+      
+      <guid>/posts/telehealth-post-net-neutrality-how-were-moving-forward/</guid>
+      <description>In December, the FCC voted to repeal its net neutrality rules, which would essentially give service providers the green light to start charging for differentiated Internet speed access. While efforts to block this are underway in Congress, and states are taking legal actions, healthcare providers have good reason to be concerned.
+In defense of the move, FCC Chairman Ajit Pai said in December that by “replacing an outright ban with a robust transparency requirement and FTC-led consumer protection, we will enable these services to come into being and help seniors.</description>
+    </item>
+    
+  </channel>
+</rss>

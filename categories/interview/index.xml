@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on News</title>
+    <link>/categories/interview/</link>
+    <description>Recent content in Interview on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 05 Aug 2018 01:49:32 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/interview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview: Brian Donovan of SE Healthcare Talks About the Value of The Reimbursement Effectiveness Platform to Healthcare Providers</title>
+      <link>/2018/08/05/interview-brian-donovan-of-se-healthcare-talks-about-the-value-of-the-reimbursement-effectiveness-platform-to-healthcare-providers/</link>
+      <pubDate>Sun, 05 Aug 2018 01:49:32 +0000</pubDate>
+      
+      <guid>/2018/08/05/interview-brian-donovan-of-se-healthcare-talks-about-the-value-of-the-reimbursement-effectiveness-platform-to-healthcare-providers/</guid>
+      <description>SE Healthcare has announced the official rollout of its software platform that would help practices increase revenue through enhanced reimbursement. For this exciting news, we decided to interview Brian Donovan, VP of Business Development at SE Healthcare.
+ SE Healthcare has added a new component to the company’s Physician Empowerment Suite, namely, the Reimbursement Effectiveness Platform. Can you tell us more about this platform?
+The Reimbursement Effectiveness Platform (RE) is a component of the Physician Empowerment Suite™ (PES).</description>
+    </item>
+    
+  </channel>
+</rss>

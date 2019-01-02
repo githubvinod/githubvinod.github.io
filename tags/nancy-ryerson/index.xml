@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nancy Ryerson on News</title>
+    <link>/tags/nancy-ryerson/</link>
+    <description>Recent content in Nancy Ryerson on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 27 Jan 2018 20:14:18 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nancy-ryerson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5 Clinical Trial Technology Innovations to Watch For in 2018</title>
+      <link>/2018/01/27/5-clinical-trial-technology-innovations-watch-2018/</link>
+      <pubDate>Sat, 27 Jan 2018 20:14:18 +0000</pubDate>
+      
+      <guid>/2018/01/27/5-clinical-trial-technology-innovations-watch-2018/</guid>
+      <description>Clinical trial technology has come a long way from when site administrators used a touch-tone keypad on a phone to randomize patients and order drugs. But with so many new features, it’s more challenging than ever for hospital decision makers to choose the right technology for clinical trials running at their facilities. Here, we’ll share key information on what’s changing, to help with these decisions. When making purchasing decisions for the next year, be on the lookout for these helpful new features that will become increasingly essential to clinical trial technology.</description>
+    </item>
+    
+  </channel>
+</rss>

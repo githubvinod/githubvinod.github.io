@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchains on News</title>
+    <link>/categories/blockchains/</link>
+    <description>Recent content in Blockchains on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 13 Jun 2018 19:17:35 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/blockchains/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blockchain Solutions in Healthcare</title>
+      <link>/2018/02/22/benefits-of-an-ehr-system/</link>
+      <pubDate>Wed, 13 Jun 2018 19:17:35 +0000</pubDate>
+      
+      <guid>/2018/02/22/benefits-of-an-ehr-system/</guid>
+      <description>While the principles of blockchain were first used in the world of finance as the technology that permitted Bitcoin to function, it has applications for many other industries, including healthcare.
+With blockchain there&amp;rsquo;s no one central administrator; however, it comes with exceptional security advantages since records are distributed across a network of repeated databases, which are always synchronized. Users are only able to update the block they have access to, and such updates become repeated across the network.</description>
+    </item>
+    
+  </channel>
+</rss>

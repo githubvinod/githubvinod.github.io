@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoffrey Boyce on News</title>
+    <link>/tags/geoffrey-boyce/</link>
+    <description>Recent content in Geoffrey Boyce on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 23 Apr 2018 23:41:53 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/geoffrey-boyce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next Generation Model for Addressing Crisis Behavioral Health in the ED</title>
+      <link>/posts/next-generation-model-for-addressing-crisis-behavioral-health-in-the-ed/</link>
+      <pubDate>Mon, 23 Apr 2018 23:41:53 +0000</pubDate>
+      
+      <guid>/posts/next-generation-model-for-addressing-crisis-behavioral-health-in-the-ed/</guid>
+      <description>Taking telepsychiatry strategies to the next level. The telemedicine revolution touches nearly every aspect of health care today. Notably, behavioral health was called out in a recent Forbes article as the sector within the industry experiencing the greatest impact. And hospital emergency departments (EDs) are taking note. In recent years, EDs have faced notable challenges meeting growing needs for mental and behavioral health services, particularly for crisis psychiatric care, amid severe professional shortages.</description>
+    </item>
+    
+  </channel>
+</rss>

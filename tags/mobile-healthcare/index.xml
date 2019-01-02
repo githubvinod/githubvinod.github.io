@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Healthcare on News</title>
+    <link>/tags/mobile-healthcare/</link>
+    <description>Recent content in Mobile Healthcare on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 11 Aug 2018 21:35:20 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mobile-healthcare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Mobile Technology is Helping Developing Countries Gain Access to Better Healthcare</title>
+      <link>/posts/how-mobile-technology-is-helping-developing-countries-gain-access-to-better-healthcare/</link>
+      <pubDate>Sat, 11 Aug 2018 21:35:20 +0000</pubDate>
+      
+      <guid>/posts/how-mobile-technology-is-helping-developing-countries-gain-access-to-better-healthcare/</guid>
+      <description>The battle to bring reliable healthcare to the developing parts of the world is still very much an unfinished one. But now, thanks to modern, mobile-focused technologies, the industrializing world has new, promising tools at its disposal for addressing the coverage gap that exists between nations and sometimes between territories within nations. The Problem Being Tackled To begin with, there are two numbers to keep in mind. Rather, two ratios:</description>
+    </item>
+    
+    <item>
+      <title>The Role of Smartphones in Encouraging the Continuance of Physical Therapy</title>
+      <link>/posts/the-role-of-smartphones-in-encouraging-the-continuance-of-physical-therapy/</link>
+      <pubDate>Thu, 22 Feb 2018 06:19:33 +0000</pubDate>
+      
+      <guid>/posts/the-role-of-smartphones-in-encouraging-the-continuance-of-physical-therapy/</guid>
+      <description>If you have undergone surgery or suffered a rather severe injury, one of the things you will need to do is attend physical therapy. You will also be expected to do various exercises on your own. Now, physical therapy has been proven to greatly improve strength, dexterity, and muscle tone. The problem, however, lies with people actually sticking to with their therapy until the end. Well, fortunately, technology – and the average smartphone – has begun to play a much greater role in this type of recovery which has made things easier for patients and therapists.</description>
+    </item>
+    
+  </channel>
+</rss>

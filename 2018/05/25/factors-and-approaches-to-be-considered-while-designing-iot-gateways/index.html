@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Factors and Approaches to Be Considered While Designing IoT Gateways &middot; News</title>
+  <meta name="description" content="Leveraging production-ready IoT gateway platforms and customizing them to achieve faster time to market and reduced cost for desired configurations and wireless connectivity options." />
+  
+  <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+  
+  <link rel="icon" type="image/png" href="/img/favicon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/xcode.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  <link rel="stylesheet" href="/css/latolatinfonts.css" />
+  
+</head>
+  <body class="single-body">
+    <nav class="nav-bar side-padding">
+  <h1 class="nav-header"><a href="/" class="nav-text">
+    News
+  </a></h1>
+  <div class="hamburger-menu">
+		<input type="checkbox" onclick="hamburgerMenuPressed()"/>
+		<span></span>
+		<span></span>
+    <ul class="hamburger-menu-overlay">
+      <li><a href="/" class="hamburger-menu-overlay-link">Home</a></li>
+      
+      
+			<li><a href="/categories/3d-printing" class="hamburger-menu-overlay-link">3d printing</a></li>
+			
+			<li><a href="/categories/addiction" class="hamburger-menu-overlay-link">Addiction</a></li>
+			
+			<li><a href="/categories/artificial-intelligence" class="hamburger-menu-overlay-link">Artificial intelligence</a></li>
+			
+			<li><a href="/categories/avani-mehta" class="hamburger-menu-overlay-link">Avani mehta</a></li>
+			
+			<li><a href="/categories/big-data" class="hamburger-menu-overlay-link">Big data</a></li>
+			
+			<li><a href="/categories/blockchains" class="hamburger-menu-overlay-link">Blockchains</a></li>
+			
+			<li><a href="/categories/blogging" class="hamburger-menu-overlay-link">Blogging</a></li>
+			
+			<li><a href="/categories/brad-spannbauer" class="hamburger-menu-overlay-link">Brad spannbauer</a></li>
+			
+			<li><a href="/categories/business" class="hamburger-menu-overlay-link">Business</a></li>
+			
+			<li><a href="/categories/contract-modeling" class="hamburger-menu-overlay-link">Contract modeling</a></li>
+			
+			<li><a href="/categories/crm" class="hamburger-menu-overlay-link">Crm</a></li>
+			
+			<li><a href="/categories/cybersecurity" class="hamburger-menu-overlay-link">Cybersecurity</a></li>
+			
+			<li><a href="/categories/dentistry" class="hamburger-menu-overlay-link">Dentistry</a></li>
+			
+			<li><a href="/categories/ed-treatment-information-center" class="hamburger-menu-overlay-link">Ed treatment information center</a></li>
+			
+			<li><a href="/categories/ehr" class="hamburger-menu-overlay-link">Ehr</a></li>
+			
+			<li><a href="/categories/health-and-fitness" class="hamburger-menu-overlay-link">Health and fitness</a></li>
+			
+			<li><a href="/categories/health-apps" class="hamburger-menu-overlay-link">Health apps</a></li>
+			
+			<li><a href="/categories/healthcare" class="hamburger-menu-overlay-link">Healthcare</a></li>
+			
+			<li><a href="/categories/healthcare-it" class="hamburger-menu-overlay-link">Healthcare it</a></li>
+			
+			<li><a href="/categories/himss" class="hamburger-menu-overlay-link">Himss</a></li>
+			
+			<li><a href="/categories/hipaa" class="hamburger-menu-overlay-link">Hipaa</a></li>
+			
+			<li><a href="/categories/home-healthcare" class="hamburger-menu-overlay-link">Home healthcare</a></li>
+			
+			<li><a href="/categories/interview" class="hamburger-menu-overlay-link">Interview</a></li>
+			
+			<li><a href="/categories/kayla-matthews" class="hamburger-menu-overlay-link">Kayla matthews</a></li>
+			
+			<li><a href="/categories/luis-castillo" class="hamburger-menu-overlay-link">Luis castillo</a></li>
+			
+			<li><a href="/categories/marketing" class="hamburger-menu-overlay-link">Marketing</a></li>
+			
+			<li><a href="/categories/medical-apps" class="hamburger-menu-overlay-link">Medical apps</a></li>
+			
+			<li><a href="/categories/medical-billing" class="hamburger-menu-overlay-link">Medical billing</a></li>
+			
+			<li><a href="/categories/medical-device" class="hamburger-menu-overlay-link">Medical device</a></li>
+			
+			<li><a href="/categories/mental-health" class="hamburger-menu-overlay-link">Mental health</a></li>
+			
+			<li><a href="/categories/mhealth--apps" class="hamburger-menu-overlay-link">Mhealth apps</a></li>
+			
+			<li><a href="/categories/nancy-ryerson" class="hamburger-menu-overlay-link">Nancy ryerson</a></li>
+			
+			<li><a href="/categories/patient-experience" class="hamburger-menu-overlay-link">Patient experience</a></li>
+			
+			<li><a href="/categories/payment-models" class="hamburger-menu-overlay-link">Payment models</a></li>
+			
+			<li><a href="/categories/payment-models--reimbursement" class="hamburger-menu-overlay-link">Payment models reimbursement</a></li>
+			
+			<li><a href="/categories/pharmacology" class="hamburger-menu-overlay-link">Pharmacology</a></li>
+			
+			<li><a href="/categories/press-release" class="hamburger-menu-overlay-link">Press release</a></li>
+			
+			<li><a href="/categories/proteomics" class="hamburger-menu-overlay-link">Proteomics</a></li>
+			
+			<li><a href="/categories/reimbursement" class="hamburger-menu-overlay-link">Reimbursement</a></li>
+			
+			<li><a href="/categories/security" class="hamburger-menu-overlay-link">Security</a></li>
+			
+			<li><a href="/categories/social-media" class="hamburger-menu-overlay-link">Social media</a></li>
+			
+			<li><a href="/categories/thanh-tran" class="hamburger-menu-overlay-link">Thanh tran</a></li>
+			
+			<li><a href="/categories/the-healthcare-guys" class="hamburger-menu-overlay-link">The healthcare guys</a></li>
+			
+    </ul>
+  </div>
+</nav>
+    <main class="content side-text-padding">
+      <article class="post dropcase">
+        <header class="post-header">
+        	<h1 class="post-title">Factors and Approaches to Be Considered While Designing IoT Gateways</h1>
+          <p class="post-date">Posted <time datetime="2018-05-25">May 25, 2018</time></p>
+        </header>
+        
+        <p><strong>Leveraging production-ready IoT gateway platforms and customizing them to achieve faster time to market and reduced cost for desired configurations and wireless connectivity options</strong></p>
+
+<p>As the trend for IoT is growing with the rising number of connected devices, the demand for IoT gateways has also increased significantly and will continue to grow exponentially in industries like Healthcare, Hospitality, Automotive, etc. The Market for IoT in Healthcare is supposed to increase by 56% each year. The global IoT gateway market is set to grow at a rate of 30.9% between 2017 and 2023 (as per a research report ‘_IoT Node and Gateway Market by Hardware, by End-Use, and Geography-Global Forecast to 2023_’ by Markets and Markets). The need for IoT gateways is realized because isolated systems are rapidly transforming to the ubiquitous internet-enabled system (also referred to as ‘connected devices’) that can be used to capture and communicate valuable information by leveraging diverse wireless connectivity technologies to IoT gateways for unified edge-analytics. In other words, IoT gateways play a vital role in by providing the fundamental building blocks to develop secure and powerful wireless connectivity between IoT devices and IoT cloud based applications. Especially in Healthcare, many such health wearables can be connected to IoT gateways that can make patient’s life easier and doctors can be connected to patient to get on-time information. Smart devices act as a boon to Healthcare industry.</p>
+
+<p>OEMs look forward to offering a gateway/hub to connect their existing wireless devices portfolio considering mainly three major aspects - first, the cost, second is overall efficiency and effectiveness of the system and third, the flexibility that it provides to design customized IoT solutions that evolve over time. While designing IoT gateways, most OEMs would think either of these four approaches:</p>
+
+<ol>
+<li><strong>Design from scratch</strong> – Building gateway from scratch based on IoT use case specific requirements with desired form factor, wireless connectivity, and other configurations. While it has its own unique advantages, this approach increases cost and time to market to a great extent.</li>
+<li><strong>Open platform based solutions</strong> – Leverage open platform-based solutions such as raspberry pi, Arduino, and beaglebone and implement the customized gateway product without extensive programming. This approach is suitable for small IoT applications but not sustainable for a large-scale IoT application.</li>
+<li><strong>Fixed configuration-based OEM solution</strong> – Purchase a production-ready gateway platform from some well-known vendors and build an IoT application. Most of such vendors have fixed configuration and form factor design. They do not provide the flexibility to customize the architecture for specific needs.</li>
+<li><strong>Modular/configurable OEM Gateway solution</strong> – Some vendors such as Phytec, VOLANSYS, Digi, etc. provides a production-ready IoT Gateway starter kit platform to build an IoT solution which can be quickly customized with a modular architecture implementation. This white- labelled gateway solution is suitable for both small and large scale IoT applications as it provides flexible architecture and faster time to market.</li>
+</ol>
+
+<p>The first three approaches have multiple demerits which may affect your business in cost-effectiveness or time-efficiency. However, the fourth one is a middle-ground approach which is flexible and the most feasible option to prototype custom configurations-based gateways, allowing early field-trials and can support mass production at reduced time, cost and risk.</p>
+
+<p>Let’s have a look at a detailed comparison of all approaches against the key factors to be considered across an IoT gateway product development lifecycle from prototype to production.</p>
+
+<p><strong>Key factors to consider for Gateway Prototype Design</strong></p>
+
+<p>While designing gateway prototype platforms, there are several areas like form factor design, hardware platform, wireless connectivity, pre-compliance to be considered whether you are building from scratch or leveraging available platforms.</p>
+
+<p><strong>Form Factor Design</strong>: IoT gateways combining all functions such as networking, control and data, security, remote operation and centralized management, are generally forced to compromise on size and form factor over fan-less and vent-less designs.</p>
+
+<p><strong>Hardware Platform</strong>: For most platforms, the silicon boards, pinouts, and connectors are not friendly enough for using the platform to test the market. Also, traditional prototype design is not compatible with a diverse range of peripherals that restrict the use of gateways in multiple applications.</p>
+
+<p><strong>Wireless Connectivity:</strong> Most of the prototype ready gateways available in the market offer limited options for wired and wireless connectivity using standards such as Zigbee, Wi-Fi, LTE, Thread, Z-Wave, Sub-GHz RF, where some of these may not be available as an option.  Also, providing more options for both southbound and northbound connectivity increases the time to market. Solutions that allow product developers to choose from the northbound interface (Wi-Fi, LTE, Ethernet) and southbound interface (Zigbee, Z-wave, LoRaWAN, Sub-GHz) are very rare in the market.</p>
+
+<p><strong>Pre-Compliance</strong>: The most critical phase is to get the gateway certified before it is made available in the market, because of the time-consuming certification processes. So, pre-compliance considerations need to be addressed well in time. In today’s fast-paced market, certification ready platforms reduce almost three months in the PDLC prior to product launch. The total time for such products to hit the market increases significantly if the platform is not pre-certified. There are very few gateways presently available in the market, which provide FCC/CE/IC pre-certification along with multiple connectivity options like Zigbee®, Thread, Wi-Fi/3G, and Bluetooth.</p>
+
+<p><strong>Key factors to consider for High Volume Gateway Production</strong></p>
+
+<p>OEMs face multiple challenges while preparing their gateway prototype design for high-volume production. To avoid these challenges, some OEMs might consider selecting a production-ready platform for their gateway requirement. Few factors that OEMs need to consider for high-volume gateway production is explained below.</p>
+
+<p><strong>NRE Charges -</strong>  If the gateway prototype platform does not meet the defined product requirements of OEMs before they ship the first unit after production, high NRE charges may reduce company profits due to lack of pre-planning around tooling enclosures, certifications and MOQ of purchases. The total production cost increases mainly because of custom-made products, and divert engineering and production resources from standard, consistent product lines, over to one-off designs with little opportunity to recoup design costs through large-scale production. With reduced NRE charges, OEMs can better spend their investment on promotions and brand development for their solution.</p>
+
+<p><strong>High Volume Supply</strong>: For a fast-moving market, 10K is a small volume to be supplied per year. It restricts some players who try to innovate the end-application as the addition of R&amp;D time, prototype development time, production time and time to test the market for an application, increase the total time to launch in the market.</p>
+
+<p><strong>Support for Chip Down or Product Enhancements:</strong> A thoughtful product prototype design should be accomplished with a well-architected gateway that is production-ready, and fulfills all critical product requirements. After initial customer trials when production reaches certain volumes, the product should be converted to chip down versions to support large volumes.</p>
+
+<p><strong>Summary:</strong></p>
+
+<p>As explained, during the IoT gateway product development roadmap from prototype to production, OEMs must compromise one or the other factors if a modular approach is not chosen. As designing and creating IoT devices is never easy, Modular IoT Gateway adds real value to your IoT applications for all industries ranging from Automotive, Healthcare to Retail. Gateways should be a central consideration when planning any IoT architecture. Selecting the right gateway should often be the starting point, as the gateways play a significant role in all facets of IoT – from connectivity management to monitoring, and data processing to cloud integration.</p>
+
+      </article>
+      
+    </main>
+    <nav class="end-nav side-padding">
+      
+      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
+  href="/posts/straightforward-advice-about-providing-your-family-a-healthy-diet-especially-when-your-child-has-special-needs-and-some-useful-apps/" class="card blog-card" rel="bookmark" >
+    
+  <article class="card-body">
+    <h2 class="card-title">Straightforward Advice About Providing Your Family a Healthy Diet, Especially When Your Child has Special Needs, and Some Useful Apps</h2>
+    <p class="card-text">Nowadays, a large number of families with children live with a hectic daily schedule of activities, appointments, and commitments. This type of lifestyle ensures that not only will it be difficult to sit down as a family to a healthy homemade dinner, but that the family’s meals are likely to be comprised of a considerable amount of take-out and frozen, prepackaged meals. It&rsquo;s not a great surprise that these diets are typically unhealthy and may very well adversely impact your child’s health and wellness.</p>
+    <div class="card-subtext muted-text">
+      <p>Posted <time datetime="2018-05-25 525:00">May 25, 2018</time></p>
+      <p></p>
+    </div>
+  </article>
+</a>
+      
+      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
+  href="/" class="card home-card" style="background-image: url( /img/grey-cloud.jpg )" rel="bookmark" >
+  Home
+</a>
+    </nav>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/core.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+  </body>
+</html>

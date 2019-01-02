@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crm on News</title>
+    <link>/categories/crm/</link>
+    <description>Recent content in Crm on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 15 Aug 2018 20:16:24 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/crm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CRM Can Do More for Both Patients and Healthcare</title>
+      <link>/2018/08/15/crm-can-do-more-for-both-patients-and-healthcare/</link>
+      <pubDate>Wed, 15 Aug 2018 20:16:24 +0000</pubDate>
+      
+      <guid>/2018/08/15/crm-can-do-more-for-both-patients-and-healthcare/</guid>
+      <description>Customer relationship management platforms (eg. Salesforce, Hubspot, Base, etc.) have begun to revolutionize the way healthcare system administrators approach patient acquisition, engagement, and retention.
+Now that more robust EMRs integrate with the CRM, administrators and physicians are suddenly capable of possessing a comprehensive, 360-degree view of the patient’s journey, from the first phone call, to diagnosis, to treatment, to follow-up, to long-term care, to the last check-in. They can simultaneously track contact preferences, phone calls, emails, payments, everything.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Population Health on News</title>
+    <link>/tags/population-health/</link>
+    <description>Recent content in Population Health on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 May 2018 17:31:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/population-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Right Population Health Analytics to Transform the Patient Experience</title>
+      <link>/posts/the-right-population-health-analytics-to-transform-the-patient-experience/</link>
+      <pubDate>Thu, 31 May 2018 17:31:50 +0000</pubDate>
+      
+      <guid>/posts/the-right-population-health-analytics-to-transform-the-patient-experience/</guid>
+      <description>Consider a situation where healthcare is not just an industry term- a situation where EHRs are not an integral part of physicians schedule but just a support to providing care. All considered, imagine a situation where patient-centric care actually involves the patient, and patient engagement is not just a buzzword but a reality. Unfortunately, all these imaginations were supposed to be a reality, but still, healthcare managers and organizations are struggling with the problems such as the lack of patients’ adherence to medication, varying trends in the population health, and a lot more.</description>
+    </item>
+    
+  </channel>
+</rss>

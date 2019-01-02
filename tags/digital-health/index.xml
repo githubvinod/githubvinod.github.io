@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Health on News</title>
+    <link>/tags/digital-health/</link>
+    <description>Recent content in Digital Health on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Jan 2018 19:52:46 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/digital-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medicine Has Made a Step Forward - 10 New Digital Technologies That Help Save Lives</title>
+      <link>/posts/medicine-has-made-a-step-forward-10-new-digital-technologies-that-help-save-lives/</link>
+      <pubDate>Sun, 28 Jan 2018 19:52:46 +0000</pubDate>
+      
+      <guid>/posts/medicine-has-made-a-step-forward-10-new-digital-technologies-that-help-save-lives/</guid>
+      <description>The medical and healthcare world has been blossoming with various changes that have been happening fast. It’s actually quite unbelievable how quickly these changes have occurred. While it can be quite difficult to be able to see these changes from an outside perspective they are there. The future of healthcare is changing literally every single day, the world around health is evolving and new tech is being introduced to hospitals and care units all over the world.</description>
+    </item>
+    
+  </channel>
+</rss>

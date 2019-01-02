@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assisted Living on News</title>
+    <link>/tags/assisted-living/</link>
+    <description>Recent content in Assisted Living on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 31 May 2018 08:31:14 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/assisted-living/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Importance of Activity in Assisted Living and Some Useful Apps</title>
+      <link>/posts/the-importance-of-activity-in-assisted-living/</link>
+      <pubDate>Thu, 31 May 2018 08:31:14 +0000</pubDate>
+      
+      <guid>/posts/the-importance-of-activity-in-assisted-living/</guid>
+      <description>If you’re trying to choose an appropriate assisted living facility for yourself or an aging loved one, there are so many things to consider that it seems futile to read another article making recommendations about what you should look for in a center. However, today our team is here to help you consider how the majority of recommendations for having a fulfilling, happy stay in the assisted living center of your choice circle back to one thing: the level of appropriate physical activity offered to residents on a regular basis.</description>
+    </item>
+    
+  </channel>
+</rss>

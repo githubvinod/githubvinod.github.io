@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing on News</title>
+    <link>/tags/cloud-computing/</link>
+    <description>Recent content in Cloud Computing on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 27 Mar 2018 22:40:38 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lessons from HIMSS 2018: The Need for Cloud, “Killer Apps” and Connectivity, But Are They Already Here?</title>
+      <link>/posts/lessons-from-himss-2018-the-need-for-cloud-killer-apps-and-connectivity-but-are-they-already-here/</link>
+      <pubDate>Tue, 27 Mar 2018 22:40:38 +0000</pubDate>
+      
+      <guid>/posts/lessons-from-himss-2018-the-need-for-cloud-killer-apps-and-connectivity-but-are-they-already-here/</guid>
+      <description>By Donald Voltz, MD, Aultman Hospital, Department of Anesthesiology, Medical Director of the Main Operating Room, Assistant Professor of Anesthesiology, Case Western Reserve University and Northeast Ohio Medical University In his HIMSS keynote address, Alphabet’s former executive chairman and now current technical advisor Eric Schmidt warned attendees that the “future of healthcare lies in the need for killer apps.” But he also cautioned that the transition to a better digitally connected health future isn&amp;rsquo;t just one killer app, but a system of apps working together in the cloud.</description>
+    </item>
+    
+  </channel>
+</rss>

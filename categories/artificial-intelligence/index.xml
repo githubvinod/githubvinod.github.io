@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on News</title>
+    <link>/categories/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 31 Aug 2018 00:14:58 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI For Healthcare? Great But Let&#39;s Get These Things Right</title>
+      <link>/2018/08/01/answered-top-10-snoring-faqs-and-some-useful-apps/</link>
+      <pubDate>Fri, 31 Aug 2018 00:14:58 +0000</pubDate>
+      
+      <guid>/2018/08/01/answered-top-10-snoring-faqs-and-some-useful-apps/</guid>
+      <description>Whether you are IBM Watson or some other AI system, you seek to find answers to questions that humans can&amp;rsquo;t answer quickly or analytically.
+ What&amp;rsquo;s the likelihood of this autoimmune disease in that patient? What does the latest evidence say about this treatment protocol for that cancer? From which zip codes will the next generation of asthma patients come from?  When we ask such cognitive (thinking) questions, there&amp;rsquo;s a big underlying assumption.</description>
+    </item>
+    
+    <item>
+      <title>Hope For Baldness and How Can Artificial Intelligence Help</title>
+      <link>/2018/01/07/hope-for-baldness-and-how-can-artificial-intelligence-help/</link>
+      <pubDate>Sun, 07 Jan 2018 10:43:40 +0000</pubDate>
+      
+      <guid>/2018/01/07/hope-for-baldness-and-how-can-artificial-intelligence-help/</guid>
+      <description>There’s nothing quite as great looking as a full head of lustrous hair. Great hair is very attractive to other people, but the reality is that many men tend to lose their hair as life goes on. Though women do lose some of their hair with age, female baldness just isn’t the issue that it is for men.
+For many men, the natural process of hair loss signifies a loss of virility and a loss of feeling attractive.</description>
+    </item>
+    
+  </channel>
+</rss>

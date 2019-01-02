@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insurance on News</title>
+    <link>/tags/insurance/</link>
+    <description>Recent content in Insurance on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 16 Apr 2018 23:54:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/insurance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getsafe Launches Pioneering Health Insurance API</title>
+      <link>/2018/04/16/getsafe-launches-pioneering-health-insurance-api/</link>
+      <pubDate>Mon, 16 Apr 2018 23:54:59 +0000</pubDate>
+      
+      <guid>/2018/04/16/getsafe-launches-pioneering-health-insurance-api/</guid>
+      <description>Heidelberg 15.03.2018 - Getsafe is now offering developers an API for integrating insurance products into third-party apps, the first to include health insurance options.
+Through Getsafe’s new API, healthcare providers such as medical offices are now able to offer easily accessible health insurance products to their patients, particularly those who avoid booking much-needed appointments because of high costs. Patients now have an easy way to get instant coverage prior to booking their appointment, avoiding potentially costly surprises after their procedure.</description>
+    </item>
+    
+  </channel>
+</rss>

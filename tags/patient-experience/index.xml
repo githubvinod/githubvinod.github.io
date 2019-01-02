@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patient Experience on News</title>
+    <link>/tags/patient-experience/</link>
+    <description>Recent content in Patient Experience on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 24 Jun 2018 03:04:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/patient-experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4 Tips to Amplify Your Patient Satisfaction Surveys</title>
+      <link>/2018/06/24/4-tips-to-amplify-your-patient-satisfaction-surveys/</link>
+      <pubDate>Sun, 24 Jun 2018 03:04:13 +0000</pubDate>
+      
+      <guid>/2018/06/24/4-tips-to-amplify-your-patient-satisfaction-surveys/</guid>
+      <description>Patient satisfaction surveys are growing in popularity among healthcare organizations as the United States health system continues its transition to value-based care. A well-designed and distributed survey can help you discover hidden issues or gems in your organization’s care system. It can also provide useful insights on whether you’re meeting patient expectations. If done right, your patient satisfaction survey can be a key player in building a satisfying and cohesive experience for patients.</description>
+    </item>
+    
+  </channel>
+</rss>

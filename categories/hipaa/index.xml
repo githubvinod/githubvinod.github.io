@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hipaa on News</title>
+    <link>/categories/hipaa/</link>
+    <description>Recent content in Hipaa on News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 17 Jun 2018 22:46:46 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/hipaa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Have You Implemented a HIPAA Compliant Security Awareness Training Program?</title>
+      <link>/2018/06/17/have-you-implemented-a-hipaa-compliant-security-awareness-training-program/</link>
+      <pubDate>Sun, 17 Jun 2018 22:46:46 +0000</pubDate>
+      
+      <guid>/2018/06/17/have-you-implemented-a-hipaa-compliant-security-awareness-training-program/</guid>
+      <description>All companies must take steps to prevent cyber-attacks and data breaches, but in healthcare this is especially important. Cybercriminals are targeting healthcare organizations to gain access to protected health information – Full sets of health records, especially those containing Social Security numbers and health insurance information, carry a high price on the black market.
+Healthcare providers are heavily reliant on electronic data, access to which is needed for healthcare operations and to provide quality care to patients.</description>
+    </item>
+    
+    <item>
+      <title>Want to Track Marketing Performance Without Violating HIPAA? Here&#39;s How</title>
+      <link>/2018/02/24/want-to-track-marketing-performance-without-violating-hipaa-heres-how/</link>
+      <pubDate>Sat, 24 Feb 2018 03:11:08 +0000</pubDate>
+      
+      <guid>/2018/02/24/want-to-track-marketing-performance-without-violating-hipaa-heres-how/</guid>
+      <description>Tracking your online marketing performance to gain a greater understanding of ROI and ultimately optimize your efforts is essential to the success of your campaigns. But as a healthcare provider, your patients’ safety and privacy are your #1 priorities. So, you face a unique challenge: How do you track your marketing and performance efforts without violating HIPAA?
+Start with Protected Health Information (PHI)
+First things first: You need to find out if the technology you want to implement collects or stores PHI.</description>
+    </item>
+    
+  </channel>
+</rss>
